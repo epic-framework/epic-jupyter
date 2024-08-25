@@ -1,5 +1,5 @@
 # Epic jupyter &mdash; Conveniences for working in Jupyter Notebook or Ipython
-[![Epic-jupyter CI](https://github.com/Cybereason/epic-jupyter/actions/workflows/ci.yml/badge.svg)](https://github.com/Cybereason/epic-jupyter/actions/workflows/ci.yml)
+[![Epic-jupyter CI](https://github.com/epic-framework/epic-jupyter/actions/workflows/ci.yml/badge.svg)](https://github.com/epic-framework/epic-jupyter/actions/workflows/ci.yml)
 
 
 ## What is it?
