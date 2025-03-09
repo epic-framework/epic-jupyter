@@ -43,6 +43,6 @@ def load_ipython_extension(ipython):
     Load the %interpolate magic.
 
     Do not call this function directly.
-    Instead, use `%loadext epic.jupyter.magic.interpolate` or add it to IPython configuration.
+    Instead, use `%load_ext epic.jupyter.magic.interpolate` or add it to IPython configuration.
     """
     ipython.register_magics(Interpolate)
